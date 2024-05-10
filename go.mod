@@ -1,4 +1,4 @@
-module github.com/rocketlaunchr/google-search
+module github.com/roodkcab/google-search
 
 go 1.16
 
